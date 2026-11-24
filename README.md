@@ -5,7 +5,7 @@
 
 Audits latency TTFB, edge delivery, render-blocking scripts, and Cumulative Layout Shift stability in New Zealand.
 
-Developed and maintained by the digital systems performance division of **TAVARDT New Zealand**.
+Developed and maintained by the digital systems performance division of **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python cwv_tester.py https://company.co.nz -json
 For full web performance audits and real-world loading simulations:
 
 * **Official Core Web Vitals Checker Tool**
-* **TAVARDT New Zealand Enterprise Portal**
+* **TAVARDT Enterprise Portal**
 
 ***
 
 ## Web Performance and Speed Optimization Advisory
 
-For New Zealand digital assets aligning with W3C Standards and NZ Digital Performance Architecture, contact the specialists at **TAVARDT New Zealand**.
+For New Zealand digital assets aligning with W3C Standards and NZ Digital Performance Architecture, contact the specialists at **TAVARDT**.
 
 ***
 
