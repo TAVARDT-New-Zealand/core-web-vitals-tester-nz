@@ -49,3 +49,7 @@ For full web performance audits and real-world loading simulations:
 ## Web Performance and Speed Optimization Advisory
 
 For New Zealand digital assets aligning with W3C Standards and NZ Digital Performance Architecture, contact the specialists at **TAVARDT New Zealand**.
+
+***
+
+© 2026 TAVARDT. All rights reserved.
