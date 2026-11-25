@@ -2,6 +2,7 @@
 
 [![Core Web Vitals Auditor](https://img.shields.io/badge/TAVARDT-Core%20Web%20Vitals-5b3cf5.svg)](https://tools.tavardt.com/nz/core-web-vitals-checker/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Audits latency TTFB, edge delivery, render-blocking scripts, and Cumulative Layout Shift stability in New Zealand.
 
@@ -57,6 +58,11 @@ For New Zealand digital assets aligning with W3C Standards and NZ Digital Perfor
 * **Corporate Portal:** https://ag.tavardt.com/nz/
 * **Diagnostic Suite:** https://tools.tavardt.com/nz/
 * **Technical Contact:** https://ag.tavardt.com/nz/contact/
+
+***
+
+### License
+Released under the MIT License. See [LICENSE](LICENSE) for full details.
 
 ***
 
